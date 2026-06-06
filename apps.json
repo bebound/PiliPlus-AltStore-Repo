@@ -21,6 +21,15 @@
       "tintColor": "#00AEEF",
       "versions": [
         {
+          "version": "2.0.8.1",
+          "buildVersion": "5024",
+          "date": "2026-06-06",
+          "localizedDescription": "增加私信消息点击范围 #2292\r\n\r\n修复专栏解析\r\n修复 #2295 #2308\r\n修复界面缩放时无法显示滚动弹幕 #2305",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.8.1/PiliPlus_ios_2.0.8%2B5024.ipa",
+          "size": 23460325,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.0.8",
           "buildVersion": "5014",
           "date": "2026-06-04",
@@ -1062,6 +1071,16 @@
     }
   ],
   "news": [
+    {
+      "title": "PiliPlus 2.0.8.1",
+      "identifier": "release-2.0.8.1",
+      "caption": "2.0.8.1",
+      "date": "2026-06-06",
+      "tintColor": "#00AEEF",
+      "notify": true,
+      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.0.8.1"
+    },
     {
       "title": "PiliPlus 2.0.8",
       "identifier": "release-2.0.8",
