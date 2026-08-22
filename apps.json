@@ -21,6 +21,24 @@
       "tintColor": "#00AEEF",
       "versions": [
         {
+          "version": "2.1.1.2",
+          "buildVersion": "5231",
+          "date": "2026-08-22",
+          "localizedDescription": "自定义定时关闭时长改为滑动选择 #2632\r\n\r\n修复 #2631 #2636\r\n修复 #1967 #2634 by @My-Responsitories\r\n修复复制 VideoTrack 信息 #2633 by @My-Responsitories",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.1.2/PiliPlus_ios_2.1.1%2B5231.ipa",
+          "size": 23906848,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.1.1.1",
+          "buildVersion": "5230",
+          "date": "2026-08-22",
+          "localizedDescription": "自定义定时关闭时长改为滑动选择 #2632\r\n\r\n修复 #2631 #2636\r\n修复 #1967 #2634 by @My-Responsitories\r\n修复复制 VideoTrack 信息 #2633 by @My-Responsitories",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.1.1/PiliPlus_ios_2.1.1%2B5230.ipa",
+          "size": 23909162,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.1.1",
           "buildVersion": "5225",
           "date": "2026-08-22",
@@ -1116,6 +1134,26 @@
     }
   ],
   "news": [
+    {
+      "title": "PiliPlus 2.1.1.2",
+      "identifier": "release-2.1.1.2",
+      "caption": "2.1.1.2",
+      "date": "2026-08-22",
+      "tintColor": "#00AEEF",
+      "notify": true,
+      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.1.1.2"
+    },
+    {
+      "title": "PiliPlus 2.1.1.1",
+      "identifier": "release-2.1.1.1",
+      "caption": "2.1.1.1",
+      "date": "2026-08-22",
+      "tintColor": "#00AEEF",
+      "notify": true,
+      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.1.1.1"
+    },
     {
       "title": "PiliPlus 2.1.1",
       "identifier": "release-2.1.1",
