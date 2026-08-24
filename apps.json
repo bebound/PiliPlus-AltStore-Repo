@@ -21,6 +21,15 @@
       "tintColor": "#00AEEF",
       "versions": [
         {
+          "version": "2.1.2",
+          "buildVersion": "5241",
+          "date": "2026-08-24",
+          "localizedDescription": "支持设置蜂窝网络解码格式 #2571 by @ucxn\r\n合并字体设置 #2611 by @My-Responsitories\r\n增加楼中楼评论排序设置 #2655 by @Meteor-3\r\nmacOS Command+R 刷新推荐 #2537 by @xiejiaxue\r\nAndroid、Windows、Linux 支持从已安装字体中选择字体 #2611 by @My-Responsitories\r\n\r\n修复部分安卓无法播放 #2631 #2642\r\n修复账号退出逻辑 #2666 by @KIDA-MNESIA\r\n修复导入设置 WebDav 配置未更新 #2667 by @KIDA-MNESIA",
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2/PiliPlus_ios_2.1.2%2B5241.ipa",
+          "size": 23940004,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.1.1.2",
           "buildVersion": "5231",
           "date": "2026-08-22",
@@ -1134,6 +1143,16 @@
     }
   ],
   "news": [
+    {
+      "title": "PiliPlus 2.1.2",
+      "identifier": "release-2.1.2",
+      "caption": "2.1.2",
+      "date": "2026-08-24",
+      "tintColor": "#00AEEF",
+      "notify": true,
+      "appID": "com.bggRGjQaUbCoE.PiliPlus",
+      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/tag/2.1.2"
+    },
     {
       "title": "PiliPlus 2.1.1.2",
       "identifier": "release-2.1.1.2",
