@@ -1,5 +1,8 @@
 # PiliPlus AltStore Repo
 
+> [!NOTE]
+> I've created a new repo [AltGallery](https://github.com/bebound/AltGallery), which contains more apps.
+
 Originally repo [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus).
 
 ### Add to your sideloader :
